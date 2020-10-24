@@ -1,0 +1,827 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="KeyWords" content="國立臺灣師範大學,臺師大,師大,臺灣師大,NTNU,ntnu,Ntnu,National Taiwan Normal University">
+<title>國立臺灣師範大學 - 古典風華現代視野</title>
+<link rel="icon" href="cherry_images/favicon.ico" type="image/x-icon">
+<!-- Bootstrap core CSS -->
+    <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
+<!-- add for show modal -->
+<link href="cherry_css2/style.css" rel="stylesheet">
+<link href="cherry_css2/index.css" rel="stylesheet">
+
+
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<header class="mobile-hide">
+<div class="container">
+
+<div class="logo"><a href="/" accesskey="H"><img src="cherry_images/logo-ntnu.png" border="0" alt="國立臺灣師範大學" title="國立臺灣師範大學"/></a> <div class="logo-text"> <span> National Taiwan Normal University</span></div></div>
+
+
+
+<div id="language">
+<ul>
+<li><a href="http://en.ntnu.edu.tw/" class="left" alt="English" title="English">English</a></li>
+<li><a href="/" class="right current" alt="中文" title="中文">中文</a></li>
+</ul>
+</div>
+
+</div>
+
+<div class="container">
+
+
+<!--menu -->
+
+<div id="overlay"></div>
+<nav id="menu">
+
+
+<ul>
+<a class="navbar-u" accesskey="U" title="上方導覽連結區" href="#" style="color:#4e070b;">:::</a>
+<li><a href="static.php?id=about" alt="關於師大" title="關於師大">關於師大</a></li>
+<li><a href="static.php?id=colleges" alt="學術單位" title="學術單位">學術單位</a></li>
+<li><a href="static.php?id=adm" alt="行政組織" title="行政組織">行政組織</a></li>
+<li><a href="static.php?id=student" alt="學生" title="學生">學生</a></li>
+<li><a href="static.php?id=faculty" alt="教職" title="教職">教職</a></li>
+<li><a href="static.php?id=alumni" alt="校友" title="校友">校友</a></li>
+<li><a href="static.php?id=examinee" alt="考生" title="考生">考生</a></li>
+<li><a href="static.php?id=guest" alt="訪客" title="訪客">訪客</a></li>
+<li><a href="http://give.ntnu.edu.tw/GoWeb2/include/index.php" target="_blank" alt="捐贈" title="捐贈">捐贈</a></li>
+<li><a href="nCoV/" target="_blank" alt="防疫" title="防疫"><span style="color:#FFF100;font-weight: bold;"><span style="font-size:large;"> 防</span>疫</span></a></li>
+</ul>
+</nav>
+
+</div>
+</header>
+
+
+
+
+
+<!--手機板 -->
+<div class="header-mobile mobile-show">
+<div class="logo-mobile"><a href="/" title="NTNU"><img src="cherry_images/logo-mobile.png" alt="NTNU"></a></div>
+
+<div id="language">
+<ul>
+<li><a href="http://en.ntnu.edu.tw/" class="left" alt="English" title="English">English</a></li>
+<li><a href="/" class="right current" alt="中文" title="中文">中文</a></li>
+</ul>
+</div>
+
+<div class="menu-mobile">
+<!--burger-->
+<div class="burger"> <span></span> </div>
+<div class="mobile-nav">
+
+<ul>
+<li><a href="static.php?id=about" alt="關於師大" title="關於師大">關於師大</a></li>
+<li><a href="static.php?id=colleges" alt="學術單位" title="學術單位">學術單位</a></li>
+<li><a href="static.php?id=adm" alt="行政組織" title="行政組織">行政組織</a></li>
+<li><a href="static.php?id=student" alt="學生" title="學生">學生</a></li>
+<li><a href="static.php?id=faculty" alt="教職" title="教職">教職</a></li>
+<li><a href="static.php?id=alumni" alt="校友" title="校友">校友</a></li>
+<li><a href="static.php?id=examinee" alt="考生" title="考生">考生</a></li>
+<li><a href="static.php?id=guest" alt="訪客" title="訪客">訪客</a></li>
+<li><a href="http://give.ntnu.edu.tw/GoWeb2/include/index.php" target="_blank" alt="捐贈" title="捐贈">捐贈</a></li>
+<li><a href="nCoV/" target="_blank" alt="防疫" title="防疫"><span style="color:#FFF100;font-weight: bold;"><span style="font-size:large;"> 防</span>疫</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!--end 手機板 -->
+
+
+<main>
+
+<div class="container">
+<div class="index-banner">
+
+
+
+
+<link href="js/slider-zoom/bannerscollection_zoominout.css" rel="stylesheet" type="text/css">
+<link href="js/slider-zoom/text_classes.css" rel="stylesheet" type="text/css">
+<link href="js/slider-zoom/css3animations.css" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="js/slider-zoom/jquery.touchSwipe.min.js" type="text/javascript"></script>
+<script src="js/slider-zoom/bannerscollection_zoominout.js" type="text/javascript"></script>
+<!-- must have -->
+
+
+
+
+	<script>
+			
+		
+		jQuery(function() {
+			jQuery("#bannerscollection_zoominout_21").bannerscollection_zoominout({				
+					skin:"opportune",
+					width:1600,
+					height:584,
+					width100Proc:false,
+					height100Proc:false,
+					responsive:true,
+					responsiveRelativeToBrowser:false,
+					setAsBg:false,
+					autoPlay:17,
+					loop:true,
+					fadeSlides:true,
+					horizontalPosition:"center",
+					verticalPosition:"center",
+					initialZoom:1,
+					finalZoom:1.1,
+					duration:20,
+					durationIEfix:30,
+					zoomEasing:"ease",
+					target:"_blank",
+					pauseOnMouseOver:false, 
+					showAllControllers:true, 
+					showNavArrows:true, 
+					showOnInitNavArrows:true,
+					autoHideNavArrows:true,
+					showBottomNav:true,
+					showOnInitBottomNav:true,
+					autoHideBottomNav:false,
+					showPreviewThumbs:true, 
+					enableTouchScreen:true, 
+					absUrl:"",
+					scrollSlideDuration:0.8,
+					scrollSlideEasing:"swing",
+					defaultEasing:"swing",
+					myloaderTime:1,
+					showCircleTimer:false, // here
+					showPauseButton:false, // i add
+					circleRadius:13,
+					circleLineWidth:2,
+					circleColor:"#ffffff",
+					circleAlpha:100,
+					behindCircleColor:"##ffffff",
+					behindCircleAlpha:20,
+					numberOfThumbsPerScreen:0,
+					thumbsWrapperMarginTop:30,
+					thumbsOnMarginTop:0,
+					defaultExitLeft:0,
+					defaultExitTop:0,
+					defaultExitFade:1,
+					defaultExitDuration:0,
+					defaultExitDelay:0,
+					defaultExitEasing:"swing",
+					defaultExitOFF:true			
+				});	
+		});
+
+		
+	</script>
+
+<div id="bannerscollection_zoominout_21">
+<div class="myloader"></div>
+<ul class="bannerscollection_zoominout_list">
+
+<li data-text-id="#bannerscollection_zoominout_photoText43" data-video="false" data-bottom-thumb="images/blank.png"  ><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19507"><img src="cherry_big_upload/202009261503420.20200926banner-1.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="
+跨領域人才培育 雙主修/輔系改登記制" /></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText42" data-video="false" data-bottom-thumb="images/blank.png"><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19455"><img src="cherry_big_upload/202009141319560.banner-20200914.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="延攬玉山青年學者 打造國際級天文研究重鎮"/></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText40" data-video="false" data-bottom-thumb="images/blank.png"><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19424"><img src="cherry_big_upload/202008251741120.banner-20200825.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="師大人的第三場域—扮演大學知識心臟的圖書館 "/></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText39" data-video="false" data-bottom-thumb="images/blank.png"><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19135"><img src="cherry_big_upload/202008171830210.banner20200817.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="QS世界大學學科前50強 臺師大名次全國最佳"/></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText41" data-video="false" data-bottom-thumb="images/blank.png"><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19352"><img src="cherry_big_upload/202008251741300.banner-20200826.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="臺師大連三年文法商類大學第一 《遠見》臺灣最佳大學臺行榜"/></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText27" data-video="false" data-bottom-thumb="images/blank.png"><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19361"><img src="cherry_big_upload/202009181726430.20200714banner.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="生命的韌性與永續"/></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText17" data-video="false" data-bottom-thumb="images/blank.png"  ><a href="javascript:show_modal('https://www.youtube.com/embed/c_aTDxqFz1U?autoplay=1');"><img src="cherry_big_upload/201909171135160.banner-20190917.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="
+我是師大人" /></a></li>
+
+<li data-text-id="#bannerscollection_zoominout_photoText22" data-video="false" data-bottom-thumb="images/blank.png"  ><a href="javascript:show_modal('https://www.youtube.com/embed/dmqK0qp8sK4?autoplay=1');"><img src="cherry_big_upload/201908211105520.1080821-1.jpg" width="1600" height="584" style="width:1600px; height:584px;" alt="
+百年傳承 宏偉師大" /></a></li>
+
+
+<!--43-->
+            <div id="bannerscollection_zoominout_photoText43" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="400" data-initial-top="500" data-final-left="400" data-final-top="300" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:120%!important;text-shadow: 0 5px 10px rgba(0,0,0, 1);">跨領域人才培育 雙主修/輔系改登記制</div>
+            </div>
+	</div>
+<!--43-->
+
+<!--42-->
+            <div id="bannerscollection_zoominout_photoText42" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="150" data-initial-top="500" data-final-left="150" data-final-top="240" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:130%!important;text-shadow: 0 5px 15px rgba(0,0,0,0.9);line-height:1.3!important;">延攬玉山青年學者<br>打造國際級天文研究重鎮</div>
+            </div>
+	</div>
+<!--42-->
+
+
+
+
+
+
+<!--41-->
+         <div id="bannerscollection_zoominout_photoText41" class="bannerscollection_zoominout_texts">					
+            <div  class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="400" data-initial-top="-60" data-final-left="400" data-final-top="220" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:150%!important;text-shadow: 0 5px 15px rgba(0,0,0,0.9);line-height:1.3!important;">臺師大連三年文法商類大學第一 </div>
+            <div style="margin-left:18%;font-size:90%!important;text-shadow: 0 5px 15px rgba(0,0,0,0.9);line-height:1.3!important;"> 《遠見》臺灣最佳大學排行榜</div>
+            </div>
+	</div>
+<!--41-->
+
+<!--40-->
+            <div id="bannerscollection_zoominout_photoText40" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="130" data-initial-top="500" data-final-left="130" data-final-top="220" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:130%!important;text-shadow: 0 5px 15px rgba(0,0,0,0.9);line-height:1.3!important;">師大人的第三場域<br>扮演大學知識心臟的圖書館</div>
+            </div>
+	</div>
+<!--40-->
+
+<!--39-->
+            <div id="bannerscollection_zoominout_photoText39" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="130" data-initial-top="500" data-final-left="130" data-final-top="300" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:130%!important;text-shadow: 0 5px 15px rgba(0,0,0,0.9);line-height:1.3!important;">QS世界大學學科前50強<br>臺師大名次全國最佳</div>
+            </div>
+	</div>
+<!--39-->
+
+
+<!--37-->
+            <div id="bannerscollection_zoominout_photoText37" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="430" data-initial-top="500" data-final-left="430" data-final-top="400" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="text-shadow: 0 5px 20px rgba(0,0,0,0.5);">109級畢業典禮 高行健、陳時中遠距祝福</div>
+            </div>
+	</div>
+<!--37-->
+
+
+
+
+
+
+
+<!--35-->
+            <div id="bannerscollection_zoominout_photoText35" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="580" data-initial-top="500" data-final-left="580" data-final-top="450" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="text-shadow: 0 5px 20px rgba(0,0,0,0.5);">邁向智慧校園 開發防疫APP</div>
+            </div>
+	</div>
+<!--35-->
+
+<!--34-->
+            <div id="bannerscollection_zoominout_photoText34" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="150" data-initial-top="500" data-final-left="150" data-final-top="450" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:120%!important;text-shadow: 0 5px 10px rgba(0,0,0, 1);">男排13連霸 女排再封后</div>
+            </div>
+	</div>
+<!--34-->
+
+<!--25-->
+            <div id="bannerscollection_zoominout_photoText25" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="500" data-initial-top="550" data-final-left="500" data-final-top="450" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="text-shadow: 0 5px 10px rgba(0,0,0, 1);">善盡大學社會責任 連結社區在地實踐</div>
+            </div>
+	</div>
+<!--25-->
+
+
+
+
+<!--18-->
+            <div id="bannerscollection_zoominout_photoText18" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="500" data-initial-top="500" data-final-left="500" data-final-top="400" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:120%!important;text-shadow: 0 5px 10px rgba(0,0,0, 1);">新生入學三部曲 迎接大學新生活</div>
+            </div>
+	</div>
+<!--18-->
+
+<!--22-->
+            <div id="bannerscollection_zoominout_photoText22" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="600" data-initial-top="500" data-final-left="600" data-final-top="400" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="font-size:120%!important;text-shadow: 0 5px 10px rgba(0,0,0, 1);">百年傳承　宏偉師大</div>
+            </div>
+	</div>
+<!--22-->
+
+<!--21-->
+            <div id="bannerscollection_zoominout_photoText21" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="700" data-initial-top="500" data-final-left="700" data-final-top="400" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="text-shadow: 0 5px 10px rgba(0,0,0, 1);">善盡大學社會責任 首創偏鄉教育學程</div>
+            </div>
+	</div>
+<!--21-->
+
+<!--20-->
+            <div id="bannerscollection_zoominout_photoText20" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="1000" data-initial-top="300" data-final-left="1000" data-final-top="250" data-duration="1" data-fade-start="0" data-delay="0" data-easing="swing" data-css3-animation=""   data-intermediate-delay="0">
+            <div style="color:#fff;font-size:120%!important;line-height:1.1!important;font-family: Arial, "Microsoft JhengHei UI", "Microsoft JhengHei"!important;text-shadow: 0 5px 3px rgba(0,0,0, 1);">世大運3金7銀1銅<br>師大運動員為國爭光</div>
+            </div>
+	</div>
+<!--20-->
+
+
+<!--15-->
+            <div id="bannerscollection_zoominout_photoText15" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="1000" data-initial-top="100" data-final-left="1000" data-final-top="100" data-duration="0.5" data-fade-start="0" data-delay="1" data-easing="swing" data-css3-animation="perspectiveLeftRetourn"   data-intermediate-delay="0">
+            <div style="color:#000;">跨學科專長組隊<br> 教育研究國際化的領頭羊</div>
+            </div>
+	</div>
+
+<!--15--> 
+
+
+
+<!--14-->
+
+            <div id="bannerscollection_zoominout_photoText14" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="1150" data-initial-top="330" data-final-left="1150" data-final-top="330" data-duration="0.5" data-fade-start="0" data-delay="1" data-easing="swing" data-css3-animation="perspectiveLeftRetourn"   data-intermediate-delay="0">
+            <div style="text-shadow: 0 2px 2px rgba(0,0,0, 1);">華語文結合科技<br> 研究成果斐然</div>
+            </div>
+	</div>
+
+<!--14-->
+
+
+
+
+
+
+<!--13-->
+
+            <div id="bannerscollection_zoominout_photoText13" class="bannerscollection_zoominout_texts">					
+            <div class="bannerscollection_zoominout_text_line lbg1_LargeRegular" data-initial-left="500" data-initial-top="330" data-final-left="500" data-final-top="330" data-duration="0.5" data-fade-start="0" data-delay="1" data-easing="swing" data-css3-animation="perspectiveLeftRetourn"   data-intermediate-delay="0">
+            <div style="text-shadow: 0 2px 2px rgba(0,0,0, 1);">教師無國界 培育IB國際雙語師資</div>
+            </div>
+	</div>
+
+<!--13-->
+
+
+
+
+
+
+
+
+
+
+			
+			
+</ul>
+</div>          
+</div>
+<noscript>
+	<h4>瀏覽器不支援Script語言時，圖片輪播將無法呈現</h4>
+	<a href="carousel.php" title="輪播各圖片說明與連結, 另開視窗" target="_blank">輪播各圖片說明與連結</a>
+      
+	</noscript>
+
+
+
+
+
+</div>
+<!--end index-banner -->
+
+</div>
+<!--enf containter -->
+
+
+
+
+
+
+
+
+
+<div class="container">
+<div class="index-news">
+
+
+
+
+<!-- Zozo Tabss -->
+<link href="js/tab/zozo.tabs.min.css" rel="stylesheet" />
+<link href="js/tab/zozo.tabs.flat.min.css" rel="stylesheet" />
+<script src="js/tab/zozo.tabs.min.js"></script>
+
+
+
+<a class="navbar-c" accesskey="C" title="中間主要內容區" href="#">:::</a>
+<div id="tabbed-nav">
+
+            <!-- Tab Navigation Menu -->
+			<ul>
+                <li><a alt="校園焦點" title="校園焦點">校園焦點</a></li>
+				<li><a alt="學術動態" title="學術動態">學術動態</a></li>
+				<li><a alt="研究亮點" title="研究亮點">研究亮點</a></li>
+				<li><a alt="師生榮耀" title="師生榮耀">師生榮耀</a></li>
+				<li><a alt="最新消息" title="最新消息">最新消息</a></li>
+                
+               
+
+            </ul>
+
+
+<!-- Content container -->
+<div>
+<!-- 校園焦點 -->
+<div>
+
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19548" target="_blank" title="臺師大與新北市共推國際教育 發揮大學社會影響力(另開新視窗)"><img src="./cherry_cache_image/NEWS_19548.jpg" alt="臺師大與新北市共推國際教育 發揮大學社會影響力" title="臺師大與新北市共推國際教育 發揮大學社會影響力" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19548" target="_blank" title="臺師大與新北市共推國際教育 發揮大學社會影響力(另開新視窗)">臺師大與新北市共推國際教育 發揮大學社會影響力</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19551" target="_blank" title="體育系張育愷教授研究臺灣樂活防疫成果 獲登國際知名期刊(另開新視窗)"><img src="./cherry_cache_image/NEWS_19551.jpg" alt="體育系張育愷教授研究臺灣樂活防疫成果 獲登國際知名期刊" title="體育系張育愷教授研究臺灣樂活防疫成果 獲登國際知名期刊" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19551" target="_blank" title="體育系張育愷教授研究臺灣樂活防疫成果 獲登國際知名期刊(另開新視窗)">體育系張育愷教授研究臺灣樂活防疫成果 獲登國際知名期刊</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19545" target="_blank" title="華萊士蝴蝶百年謎題揭曉 生科系研究登國際期刊(另開新視窗)"><img src="./cherry_cache_image/NEWS_19545.jpg" alt="華萊士蝴蝶百年謎題揭曉 生科系研究登國際期刊" title="華萊士蝴蝶百年謎題揭曉 生科系研究登國際期刊" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19545" target="_blank" title="華萊士蝴蝶百年謎題揭曉 生科系研究登國際期刊(另開新視窗)">華萊士蝴蝶百年謎題揭曉 生科系研究登國際期刊</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19543" target="_blank" title="推動大學社會責任 臺師大獲天下USR大學公民獎(另開新視窗)"><img src="./cherry_cache_image/NEWS_19543.jpg" alt="推動大學社會責任 臺師大獲天下USR大學公民獎" title="推動大學社會責任 臺師大獲天下USR大學公民獎" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19543" target="_blank" title="推動大學社會責任 臺師大獲天下USR大學公民獎(另開新視窗)">推動大學社會責任 臺師大獲天下USR大學公民獎</a></h3>
+</div>
+
+</div>
+<!-- end 校園焦點 -->
+
+
+
+<!-- 學術動態 -->
+<div>
+
+
+
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19565" target="_blank" title="公衛學者專家齊聚師大 研擬抗疫對策(另開新視窗)"><img src="./cherry_cache_image/NEWS_19565.jpg" alt="公衛學者專家齊聚師大 研擬抗疫對策" title="公衛學者專家齊聚師大 研擬抗疫對策" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19565" target="_blank" title="公衛學者專家齊聚師大 研擬抗疫對策(另開新視窗)">公衛學者專家齊聚師大 研擬抗疫對策</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19561" target="_blank" title="臺師大助教師搶先取得雙語教師證 新北首創技高雙語學分班開課 (另開新視窗)"><img src="./cherry_cache_image/NEWS_19561.jpg" alt="臺師大助教師搶先取得雙語教師證 新北首創技高雙語學分班開課 " title="臺師大助教師搶先取得雙語教師證 新北首創技高雙語學分班開課 " border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19561" target="_blank" title="臺師大助教師搶先取得雙語教師證 新北首創技高雙語學分班開課 (另開新視窗)">臺師大助教師搶先取得雙語教師證 新北首創技高雙語學分班開課 </a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19550" target="_blank" title="雲端人力資源實驗室揭牌 科技系產學合作創造雙贏(另開新視窗)"><img src="./cherry_cache_image/NEWS_19550.jpg" alt="雲端人力資源實驗室揭牌 科技系產學合作創造雙贏" title="雲端人力資源實驗室揭牌 科技系產學合作創造雙贏" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19550" target="_blank" title="雲端人力資源實驗室揭牌 科技系產學合作創造雙贏(另開新視窗)">雲端人力資源實驗室揭牌 科技系產學合作創造雙贏</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19529" target="_blank" title="重新定義體育系 110學年更名「體育與運動科學系」(另開新視窗)"><img src="./cherry_cache_image/NEWS_19529.jpg" alt="重新定義體育系 110學年更名「體育與運動科學系」" title="重新定義體育系 110學年更名「體育與運動科學系」" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19529" target="_blank" title="重新定義體育系 110學年更名「體育與運動科學系」(另開新視窗)">重新定義體育系 110學年更名「體育與運動科學系」</a></h3>
+</div>
+
+</div>
+<!-- end 學術動態 -->
+
+
+<!-- 研究亮點 -->
+<div>
+
+
+
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19564" target="_blank" title="幸福可以教嗎?(另開新視窗)"><img src="./cherry_cache_image/NEWS_19564.jpg" alt="幸福可以教嗎?" title="幸福可以教嗎?" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19564" target="_blank" title="幸福可以教嗎?(另開新視窗)">幸福可以教嗎?</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19563" target="_blank" title="聽力損失與失智症的關係(另開新視窗)"><img src="./cherry_cache_image/NEWS_19563.jpg" alt="聽力損失與失智症的關係" title="聽力損失與失智症的關係" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19563" target="_blank" title="聽力損失與失智症的關係(另開新視窗)">聽力損失與失智症的關係</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19547" target="_blank" title="以阿茲海默氏症細胞/小鼠模式探究查爾酮合成衍生物LM-031的多重標的效應(另開新視窗)"><img src="./cherry_cache_image/NEWS_19547.jpg" alt="以阿茲海默氏症細胞/小鼠模式探究查爾酮合成衍生物LM-031的多重標的效應" title="以阿茲海默氏症細胞/小鼠模式探究查爾酮合成衍生物LM-031的多重標的效應" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19547" target="_blank" title="以阿茲海默氏症細胞/小鼠模式探究查爾酮合成衍生物LM-031的多重標的效應(另開新視窗)">以阿茲海默氏症細胞/小鼠模式探究查爾酮合成衍生物LM-031的多重標的效應</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19544" target="_blank" title="照顧老人？照顧小孩？！探討高齡社會下「家庭」與「國家」的責任分工(另開新視窗)"><img src="./cherry_cache_image/NEWS_19544.jpg" alt="照顧老人？照顧小孩？！探討高齡社會下「家庭」與「國家」的責任分工" title="照顧老人？照顧小孩？！探討高齡社會下「家庭」與「國家」的責任分工" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19544" target="_blank" title="照顧老人？照顧小孩？！探討高齡社會下「家庭」與「國家」的責任分工(另開新視窗)">照顧老人？照顧小孩？！探討高齡社會下「家庭」與「國家」的責任分工</a></h3>
+</div>
+
+</div>
+<!-- end 研究亮點 -->
+
+
+
+
+
+<!-- 師生榮耀 -->
+<div>
+
+
+
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19569" target="_blank" title="設計系林俊良教授屢獲國際設計大獎 (另開新視窗)"><img src="./cherry_cache_image/NEWS_19569.jpg" alt="設計系林俊良教授屢獲國際設計大獎 " title="設計系林俊良教授屢獲國際設計大獎 " border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19569" target="_blank" title="設計系林俊良教授屢獲國際設計大獎 (另開新視窗)">設計系林俊良教授屢獲國際設計大獎 </a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19562" target="_blank" title="體育系王冠閎200公尺蝶式 打破世青紀錄(另開新視窗)"><img src="./cherry_cache_image/NEWS_19562.jpg" alt="體育系王冠閎200公尺蝶式 打破世青紀錄" title="體育系王冠閎200公尺蝶式 打破世青紀錄" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19562" target="_blank" title="體育系王冠閎200公尺蝶式 打破世青紀錄(另開新視窗)">體育系王冠閎200公尺蝶式 打破世青紀錄</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19557" target="_blank" title="設計系黃心健教授VR作品 榮獲亞洲影藝創意大獎(另開新視窗)"><img src="./cherry_cache_image/NEWS_19557.jpg" alt="設計系黃心健教授VR作品 榮獲亞洲影藝創意大獎" title="設計系黃心健教授VR作品 榮獲亞洲影藝創意大獎" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19557" target="_blank" title="設計系黃心健教授VR作品 榮獲亞洲影藝創意大獎(另開新視窗)">設計系黃心健教授VR作品 榮獲亞洲影藝創意大獎</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19538" target="_blank" title="鋼琴重奏比賽傳捷報 音樂系學生重過程更勝名次(另開新視窗)"><img src="./cherry_cache_image/NEWS_19538.jpg" alt="鋼琴重奏比賽傳捷報 音樂系學生重過程更勝名次" title="鋼琴重奏比賽傳捷報 音樂系學生重過程更勝名次" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19538" target="_blank" title="鋼琴重奏比賽傳捷報 音樂系學生重過程更勝名次(另開新視窗)">鋼琴重奏比賽傳捷報 音樂系學生重過程更勝名次</a></h3>
+</div>
+
+</div>
+<!-- end 師生榮耀 -->
+
+
+
+
+
+
+
+<!-- 最新消息 -->
+<div>
+
+
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19567" target="_blank" title="師大79級重聚  30年師恩難忘情誼依舊(另開新視窗)"><img src="./cherry_cache_image/NEWS_19567.jpg" alt="師大79級重聚  30年師恩難忘情誼依舊" title="師大79級重聚  30年師恩難忘情誼依舊" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19567" target="_blank" title="師大79級重聚  30年師恩難忘情誼依舊(另開新視窗)">師大79級重聚  30年師恩難忘情誼依舊</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19566" target="_blank" title="首屆30重聚 79級校友齊聚師大話當年(另開新視窗)"><img src="./cherry_cache_image/NEWS_19566.jpg" alt="首屆30重聚 79級校友齊聚師大話當年" title="首屆30重聚 79級校友齊聚師大話當年" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19566" target="_blank" title="首屆30重聚 79級校友齊聚師大話當年(另開新視窗)">首屆30重聚 79級校友齊聚師大話當年</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19570" target="_blank" title="原住民戶外藝術裝置展 傳遞多元族群文化之美(另開新視窗)"><img src="./cherry_cache_image/NEWS_19570.jpg" alt="原住民戶外藝術裝置展 傳遞多元族群文化之美" title="原住民戶外藝術裝置展 傳遞多元族群文化之美" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19570" target="_blank" title="原住民戶外藝術裝置展 傳遞多元族群文化之美(另開新視窗)">原住民戶外藝術裝置展 傳遞多元族群文化之美</a></h3>
+</div>
+
+<div class="index-news-list">
+  <a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19571" target="_blank" title="表藝畢製音樂劇《春醒》 12月知音劇場登台演出(另開新視窗)"><img src="./cherry_cache_image/NEWS_19571.jpg" alt="表藝畢製音樂劇《春醒》 12月知音劇場登台演出" title="表藝畢製音樂劇《春醒》 12月知音劇場登台演出" border="0"/></a>
+<h3><a href="http://pr.ntnu.edu.tw/news/index.php?mode=data&id=19571" target="_blank" title="表藝畢製音樂劇《春醒》 12月知音劇場登台演出(另開新視窗)">表藝畢製音樂劇《春醒》 12月知音劇場登台演出</a></h3>
+</div>
+
+</div>
+<!-- end最新消息 -->
+
+
+
+
+
+
+</div>
+
+</div>
+<!-- Zozo Tabs End-->
+
+
+
+
+ <script>
+        jQuery(document).ready(function ($) {
+            /* jQuery activation and setting options for first tabs*/
+                $("#tabbed-nav").zozoTabs({
+                position: "top-left",
+                theme: "red",
+                style: "underlined",
+                rounded: false,
+                shadows: false,
+                defaultTab: "tab1",
+                animation: {
+                    easing: "easeInOutCirc",
+                    effects: "slideUp"
+                },
+                autoplay: {        
+                interval: 9000,
+                smart: true        
+                }, 
+                size: "large"
+            });
+
+
+        });
+    </script>
+
+
+
+
+
+
+</div>
+</div>
+<!--enf containter -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container ">
+<div class="index-link">
+
+
+
+
+<div class="row-fluid">
+<div class="span3">
+<a class="navbar-b" accesskey="B" title="下方區塊" href="#">:::</a>
+  <img src="cherry_images/footer-logo.png" alt="師大" title="師大" border="0"></div>
+
+
+
+
+<div class="span3 link-info">
+<ul>
+<h3>焦點活動</h3>
+
+
+<li><a href="http://www.aa.ntnu.edu.tw/admiss/super_pages.php?ID=0admiss701" alt="招生資訊" title="招生資訊(另開新視窗)" target="_blank">招生資訊</a></li>
+<li><a href="http://www.lib.ntnu.edu.tw/" alt="圖書資源" title="圖書資源(另開新視窗)" target="_blank">圖書資源</a></li>
+<li><a href="https://www.sce.ntnu.edu.tw/home/course/" alt="進修推廣" title="進修推廣(另開新視窗)" target="_blank">進修推廣</a></li>
+<li><a href="https://ap.itc.ntnu.edu.tw/alumni/" alt="校友資料庫" title="校友資料庫(另開新視窗)" target="_blank">校友資料庫</a></li>
+
+</ul>
+</div>
+
+
+<div class="span3 link-info">
+<ul>
+<h3>重點網站</h3>
+
+<li><a href="http://triangle.ntu.edu.tw/" alt="國立臺灣大學系統" title="國立臺灣大學系統(另開新視窗)" target="_blank">國立臺灣大學系統</a></li>
+<li><a href="http://140.122.65.193/TOP.html" alt="高等教育深耕計畫" title="高等教育深耕計畫(另開新視窗)" target="_blank">高等教育深耕計畫</a></li>
+<li><a href="http://rh.acad.ntnu.edu.tw/tw/epaper/2020/09" alt="研究亮點精選報導" title="研究亮點精選報導(另開新視窗)" target="_blank">研究亮點精選報導</a></li>
+<li><a href="http://www.ga.ntnu.edu.tw/service/" alt="師大生活便利通" title="師大生活便利通(另開新視窗)" target="_blank">師大生活便利通</a></li>
+<li><a href="http://moocs.ntnu.edu.tw" alt="MOOCS 磨課師" title="MOOCS 磨課師(另開新視窗)" target="_blank">MOOCS 磨課師</a></li>
+<li><a href="http://genderequity.ntnu.edu.tw/" alt="性別平等教育宣導" title="性別平等教育宣導(另開新視窗)" target="_blank">性別平等教育宣導</a></li>
+</ul>
+</div>
+
+
+<div class="span3 link-info">
+<ul>
+<a href="http://pr.ntnu.edu.tw/chirpy/" title="活動預告" alt="活動預告" target="_blank"><h3>活動預告</h3></a>
+
+<li><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5859" class="event" alt="10-22國立臺灣師範大學109年度「產學合作計畫業務說明會」" title="10-22國立臺灣師範大學109年度「產學合作計畫業務說明會」(另開新視窗)" target="_blank" >10-22</a><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5859" alt="10-22國立臺灣師範大學109年度「產學合作計畫業務說明會」" title="10-22國立臺灣師範大學109年度「產學合作計畫業務說明會」(另開新視窗)" target="_blank" >國立臺灣師範大學109年度「產學合作計畫業務說明會」</a></li>
+<li><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5890" class="event" alt="10-2215分鐘痠痛OUT教你遠離腰痠背痛，辨識急性傷害避免二次受傷" title="10-2215分鐘痠痛OUT教你遠離腰痠背痛，辨識急性傷害避免二次受傷(另開新視窗)" target="_blank" >10-22</a><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5890" alt="10-2215分鐘痠痛OUT教你遠離腰痠背痛，辨識急性傷害避免二次受傷" title="10-2215分鐘痠痛OUT教你遠離腰痠背痛，辨識急性傷害避免二次受傷(另開新視窗)" target="_blank" >15分鐘痠痛OUT教你遠離腰痠背痛，辨識急性傷害避免二次受傷</a></li>
+<li><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5753" class="event" alt="10-221091022-師大光電所學術演講公告" title="10-221091022-師大光電所學術演講公告(另開新視窗)" target="_blank" >10-22</a><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5753" alt="10-221091022-師大光電所學術演講公告" title="10-221091022-師大光電所學術演講公告(另開新視窗)" target="_blank" >1091022-師大光電所學術演講公告</a></li>
+<li><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5786" class="event" alt="10-24【師大心田：用魔術玩人際～照顧者的人際關係工作坊】" title="10-24【師大心田：用魔術玩人際～照顧者的人際關係工作坊】(另開新視窗)" target="_blank" >10-24</a><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5786" alt="10-24【師大心田：用魔術玩人際～照顧者的人際關係工作坊】" title="10-24【師大心田：用魔術玩人際～照顧者的人際關係工作坊】(另開新視窗)" target="_blank" >【師大心田：用魔術玩人際～照顧者的人際關係工作坊】</a></li>
+<li><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5878" class="event" alt="10-262020繳不起電肺(菸害防制宣導活動)" title="10-262020繳不起電肺(菸害防制宣導活動)(另開新視窗)" target="_blank" >10-26</a><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5878" alt="10-262020繳不起電肺(菸害防制宣導活動)" title="10-262020繳不起電肺(菸害防制宣導活動)(另開新視窗)" target="_blank" >2020繳不起電肺(菸害防制宣導活動)</a></li>
+<li><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5849" class="event" alt="10-26109年研究倫理工作坊（1）" title="10-26109年研究倫理工作坊（1）(另開新視窗)" target="_blank" >10-26</a><a href="http://pr.ntnu.edu.tw/chirpy/ntnu_event.php?event=5849" alt="10-26109年研究倫理工作坊（1）" title="10-26109年研究倫理工作坊（1）(另開新視窗)" target="_blank" >109年研究倫理工作坊（1）</a></li>
+
+</ul>
+
+</div>
+
+
+
+</div>
+<!-- end row-fluid-->
+
+
+</div>
+</div>
+<!-- end container -->
+
+
+<div class="container" align="right">
+
+<div class="footer-menu">
+<span>
+<a href="http://www.sa.ntnu.edu.tw/files/13-1000-669.php" title="交通資訊(另開新視窗)" target="_blank">交通資訊</a>
+<a href="http://www.ga.ntnu.edu.tw/ntnu_map" title="校園地圖(另開新視窗)" target="_blank">校園地圖</a>
+<a href="static.php?id=contactus" title="聯絡我們">聯絡我們</a>
+</span>
+<span>
+<a href="http://pr.ntnu.edu.tw/archive/file/NTNU%20Diversity%20and%20Inclusion%20Statement.pdf" title="多元宣言" target="_blank" >多元宣言</a>
+<a href="static.php?id=open" title="資訊公開" >資訊公開</a>
+<a href="http://pms.itc.ntnu.edu.tw/HireApp/" target="_blank" title="徵才訊息(另開新視窗)">徵才訊息</a>
+</span>
+</div>
+
+<div class="container" align="right">
+<div class="aplus"><a href="http://www.handicap-free.nat.gov.tw/Applications/Detail?category=20150916111823" title="無障礙網站" target="_blank"><img src="cherry_images/aplus.jpg" alt="通過A+優先等級無障礙網頁檢測" /></a></div>
+</div>
+<!-- end container -->
+
+
+
+</main>
+<div id="myModal" class="modal fade">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true" onClick='close_modal();'>&times;</button>
+                
+            </div>
+            <div class="modal-body">
+            <iframe width="100%" height="100%" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<script>
+function show_modal(url) {
+   $('.modal .modal-body').css('overflow-y', 'auto'); 
+   $('.modal .modal-dialog .modal-body').css('height', $(window).height() * 0.9);
+   $("#myModal iframe").attr("src", url);
+   $("#myModal").modal('show');
+}
+function close_modal() {
+       $("#myModal iframe").attr("src", null);
+}
+</script>
+<footer>
+<div class="container">
+
+<!--
+<div class="footer-logo">
+<img src="cherry_images/ntnu-logo.png" border="0" alt="國立臺灣師範大學" title="國立臺灣師範大學">
+</div>
+-->
+
+<div class="footer-address">
+地址：106 台北市和平東路一段162號<span>學生安全緊急聯絡電話：<a href="tel:0277493123" >(02) 7749-3123</a></span>
+<div>本部總機：<a href="tel:0277491111">(02) 7749-1111</a><span>公館校區： <a href="tel:0277496666">(02) 7749-6666</a></span><span>林口校區 ： <a href="tel:0277498888">(02) 7749-8888</a> <span></div> 
+</div>
+
+<div class="footer-box">
+<span class="footer-icon"><a href="https://www.facebook.com/NTNU.Taiwan" target="_blank" class="hvr-float-shadow"><img src="cherry_images/icon-facebook.png" alt="Facebook" title="Facebook"/></a></span>
+<span class="footer-icon"><a href="https://www.instagram.com/ntnu.taiwan/" target="_blank" class="hvr-float-shadow"><img src="cherry_images/icon-ig.png" alt="Instagram" title="Instagram"/></a></span>
+<span class="footer-icon"><a href="http://www.youtube.com/user/ntnutv" target="_blank" class="hvr-float-shadow"><img src="cherry_images/icon-youtube.png" alt="Youtube" title="Youtube"/></a></span>
+<span class="footer-icon"><a href="static.php?id=navigation"  class="hvr-float-shadow sitemap" ><img src="cherry_images/icon-sitemap.png" alt="網站導覽" title="網站導覽"/></a></span>
+</div>
+
+
+
+</div>
+</footer> 
+
+<script>
+$('.burger, .overlay').click(function(){
+  $('.burger').toggleClass('clicked');
+  $('.overlay').toggleClass('show');
+  $('.mobile-nav').toggleClass('show');
+  $('body').toggleClass('overflow');
+});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141775379-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141775379-1');
+</script>
+
+<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./dist/js/bootstrap.min.js"></script>
+    <script src="./assets/js/docs.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="./assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
+
+
+
+
+
+

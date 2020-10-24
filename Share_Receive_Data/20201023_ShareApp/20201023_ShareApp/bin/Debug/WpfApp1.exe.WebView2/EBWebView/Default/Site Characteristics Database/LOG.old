@@ -1,0 +1,5 @@
+2020/10/24-17:13:24.018 5898 Log #3: 18 ops saved to Table #4 OK
+2020/10/24-17:13:24.019 5898 Archiving C:\20201024_project_git\Share-Receive-Application\Desktop\Share_Receive_Data\20201023_App1-master\20201023_App1-master\bin\Debug\WpfApp1.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2020/10/24-17:13:24.020 5898 Table #4: 18 entries OK
+2020/10/24-17:13:24.022 5898 Archiving C:\20201024_project_git\Share-Receive-Application\Desktop\Share_Receive_Data\20201023_App1-master\20201023_App1-master\bin\Debug\WpfApp1.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2020/10/24-17:13:24.031 5898 **** Repaired leveldb C:\20201024_project_git\Share-Receive-Application\Desktop\Share_Receive_Data\20201023_App1-master\20201023_App1-master\bin\Debug\WpfApp1.exe.WebView2\EBWebView\Default\Site Characteristics Database; recovered 1 files; 592 bytes. Some data may have been lost. ****

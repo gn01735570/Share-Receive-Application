@@ -1,0 +1,5 @@
+2020/10/24-17:15:22.977 c90 Log #3: 6 ops saved to Table #4 OK
+2020/10/24-17:15:22.979 c90 Archiving C:\20201024_project_git\Share-Receive-Application\Desktop\Share_Receive_Data\20201023_App2-master\20201023_App2-master\bin\Debug\Application2.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log: OK
+2020/10/24-17:15:22.979 c90 Table #4: 6 entries OK
+2020/10/24-17:15:22.981 c90 Archiving C:\20201024_project_git\Share-Receive-Application\Desktop\Share_Receive_Data\20201023_App2-master\20201023_App2-master\bin\Debug\Application2.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001: OK
+2020/10/24-17:15:22.991 c90 **** Repaired leveldb C:\20201024_project_git\Share-Receive-Application\Desktop\Share_Receive_Data\20201023_App2-master\20201023_App2-master\bin\Debug\Application2.exe.WebView2\EBWebView\Default\Site Characteristics Database; recovered 1 files; 272 bytes. Some data may have been lost. ****
