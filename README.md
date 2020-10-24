@@ -55,19 +55,19 @@ using MaterialDesignThemes.Wpf;
 
 ### User Interface of the Application
 #### 1. The main page of source application. 
-![ShareHome](https://github.com/gn01735570/Share-Receive-Application/blob/master/ShareHomePage.PNG)
+![ShareHome](https://github.com/gn01735570/Share-Receive-Application/ShareHomePage.PNG)
 
 #### 2. The page which is about sharing image of source application. 
-![ShareImage](https://github.com/gn01735570/Share-Receive-Application/blob/master/ShareImage.PNG)
+![ShareImage](https://github.com/gn01735570/Share-Receive-Application/ShareImage.PNG)
 
 #### 3. The page which is about sharing user data of source application. 
-![ShareUserData](https://github.com/gn01735570/Share-Receive-Application/blob/master/ShareUserData.PNG)
+![ShareUserData](https://github.com/gn01735570/Share-Receive-Application/ShareUserData.PNG)
 
 #### 4. The page which is about receiving image of target application. 
-![ReceivingImage](https://github.com/gn01735570/Share-Receive-Application/blob/master/ReceivingImage.PNG)
+![ReceivingImage](https://github.com/gn01735570/Share-Receive-Application/ReceivingImage.PNG)
 
 #### 5. The page which is about receiving user data of target application. 
-![ReceivingUserData](https://github.com/gn01735570/Share-Receive-Application/blob/master/ReceivingUserData.PNG)
+![ReceivingUserData](https://github.com/gn01735570/Share-Receive-Application/ReceivingUserData.PNG)
 
 
 
